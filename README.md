@@ -12,5 +12,3 @@ Arrow Key: Move
 Objs: +Eat as much as you can!(Remember not to die)
       +Pls remember your scores. High score will be updated later
 
-//~~meow~~ // ~~nyan~~ //
-
